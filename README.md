@@ -1,5 +1,5 @@
 
-[FoxFoxCoffeeGIF](https://github.com/user-attachments/assets/bf37f353-5dfa-4107-a030-183b722a0008)
+
 Hi, I’m @JeremyArt3mis!
 
 
