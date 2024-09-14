@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @JeremyArt3mis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python/pygame,Godot,Gamemaker, and Html
+
+[FoxFoxCoffeeGIF](https://github.com/user-attachments/assets/bf37f353-5dfa-4107-a030-183b722a0008)
+Hi, I’m @JeremyArt3mis!
+
+
+-I’m interested in learning new things
+
+-I’m currently learning Python/pygame, Godot, Gamemaker, and HTML
 
 
 <!---
